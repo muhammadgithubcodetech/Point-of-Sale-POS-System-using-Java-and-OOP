@@ -1,0 +1,8 @@
+Java 17 or higher
+Maven 3.6 or higher
+
+# Java libraries used (bundled with JDK)
+javax.swing
+java.io
+java.util
+java.awt
